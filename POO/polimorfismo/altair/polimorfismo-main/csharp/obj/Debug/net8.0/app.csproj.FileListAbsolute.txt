@@ -1,0 +1,5 @@
+c:\Users\chele\Desktop\constr\POO\polimorfismo\altair\polimorfismo-main\csharp\obj\Debug\net8.0\app.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\chele\Desktop\constr\POO\polimorfismo\altair\polimorfismo-main\csharp\obj\Debug\net8.0\app.AssemblyInfoInputs.cache
+c:\Users\chele\Desktop\constr\POO\polimorfismo\altair\polimorfismo-main\csharp\obj\Debug\net8.0\app.AssemblyInfo.cs
+c:\Users\chele\Desktop\constr\POO\polimorfismo\altair\polimorfismo-main\csharp\obj\Debug\net8.0\app.csproj.CoreCompileInputs.cache
+c:\Users\chele\Desktop\constr\POO\polimorfismo\altair\polimorfismo-main\csharp\obj\Debug\net8.0\app.sourcelink.json
